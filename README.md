@@ -127,7 +127,7 @@ Replace your_password with your actual MySQL password.
 
 2️⃣ Run the Spring Boot Backend Locally
 
-git https://github.com/JagathGamage/fullAppointmentBooking.git
+git clone https://github.com/JagathGamage/fullAppointmentBooking.git
 
 Step 1: Install Dependencies
 
